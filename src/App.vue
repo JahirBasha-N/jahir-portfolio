@@ -1,6 +1,6 @@
 <template>
   <div id="app">
-    <WelcomeToPortFolio msg="Welcome to Your Vue.js App"/>
+    <WelcomeToPortFolio/>
   </div>
 </template>
 
@@ -24,4 +24,4 @@ export default {
   color: #2c3e50;
   margin-top: 60px;
 }
-</style>./components/WelcomeToPortFolio.vue
+</style>
